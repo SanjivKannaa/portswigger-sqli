@@ -6,3 +6,6 @@ SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
 add ' or 1=1-- to the value in the url
 
 LAB2
+SQL injection vulnerability allowing login bypass
+username -> Administrator'--
+
